@@ -28,4 +28,11 @@ Sobre as porcentagens:
 99,9% = 10,1 min de indisponibilidade
 99,95% = 5min de indisponibilidade
 
+## 🔢 Lab 3 - Configurando uma instância de Banco de Dados na Azure
+
+Nesta aula foi mostrado que a criação de máquinas virtual na Azure é um processo que exige bastante atenção pela quantidade de opções de configurações possíveis. 
+
+Além disso, foi apresentado uma calculadora na hora da criação do servidor e do banco de dados SQL, que dá uma noção do quanto gastaríamos pelo uso com base nas configurações escolhidas. 
+
+
 

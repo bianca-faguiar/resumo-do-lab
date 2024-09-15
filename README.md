@@ -34,5 +34,15 @@ Nesta aula foi mostrado que a criação de máquinas virtual na Azure é um proc
 
 Além disso, foi apresentado uma calculadora na hora da criação do servidor e do banco de dados SQL, que dá uma noção do quanto gastaríamos pelo uso com base nas configurações escolhidas. 
 
+## 🌍 Lab 4 - Componentes de Arquitetura do Azure
+
+Começamos o Lab explorando a infraestrutura global do Azure, na página com o mapa de data centers pelo mundo [em seu site oficial](https://datacenters.microsoft.com/globe/explore).
+
+Replicação de dados por regiões, pares de região e o impacto da LGPD, pois existem dados que não podem sair do país e nossa região par é nos EUA.
+
+Tour virtual pelo datacenter da Microsoft.
+
+Criação de um grupo de recursos no Azure. É possível gerenciar permissionamento nos grupos de recursos.
+
 
 

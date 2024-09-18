@@ -44,5 +44,9 @@ Tour virtual pelo datacenter da Microsoft.
 
 Criação de um grupo de recursos no Azure. É possível gerenciar permissionamento nos grupos de recursos.
 
+## 💾 Lab 5 - Configurando recursos e dimensionamentos em VM's no Azure
 
+Configuração completa de uma máquina virtual explorando conceitos como Spot (que é um espaço mais barato que pode ser descontinuado, mas é bom pra teste), backup, discos órfãos, exclusão de VM e etc.
+
+Configuração de uma área de trabalho virtual.
 

@@ -71,3 +71,21 @@ Opções de gerenciamento de arquivo:
 - gerenciador de armazenamento
 - sincronização de arquivos
 
+## 🔐 Lab 7 - Segurança e Identidade no Azure
+
+Microsoft Entra ID é o responsável por represar todos os usuários (gerenciamento de identidades)
+
+Autenticação - identifica a pessoa ou serviço, buscando acesso a um recurso
+Autorização - Determina o nível de acesso de uma pessoa ou serviço autenticado.
+
+Autenticação multifator - Fornece segurança adicional para as identidades, exigindo 2 ou mais elementos para autenticação completa (algo que você sabe, algo que você possui, algo que você é)
+
+Acesso Condicional
+
+Confiança Zero - Pressupõe sempre o pior cenário. Trabalha com os menores privilégios possível.
+
+Proteção completa - Uma abordagem em camadas para proteger sistemas de computadores. Ataques em uma camada são isolados das camadas subsequentes.
+
+Microsoft Defender para nuvem - É um serviço de monitoramento que fornece proteção contra ameaças nos datacenters do Azure e locais (incluindo o ambiente AWS e GCP)
+
+

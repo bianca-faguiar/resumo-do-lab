@@ -88,4 +88,15 @@ Proteção completa - Uma abordagem em camadas para proteger sistemas de computa
 
 Microsoft Defender para nuvem - É um serviço de monitoramento que fornece proteção contra ameaças nos datacenters do Azure e locais (incluindo o ambiente AWS e GCP)
 
+## 💰 Lab 8 - Otimizando custos no Azure
+
+Fatores que afetam os custos: Tipo de recurso, consumo, manutenção, área geográfica, tráfego de rede e assinatura.
+
+Calculadora Azure, para utilizar as infos necessárias são: Região, camadas, opções de cobrança, opçoes de suporte, programas e ofertas e preço de desenvolvimento / testes no Azure.
+
+TCO (Calculadora de custos totais de propriedade) - estima o custo total de uma migração para o Azure
+
+Marcas (tags) - IMPORTANTE: Não são obrigatórias e herdáveis! Tratam-se de metadados que organizam recursos de maneira lógica. Consistem em um par nome-valor. Úteis para organizar infos de cobrança.
+
+Lab - Testes com a calculadora.
 

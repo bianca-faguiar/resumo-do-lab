@@ -113,3 +113,11 @@ Microsoft Purview - Soluções de governança, risco e conformidade de dados que
 - Azure Arc - gerenciamento de recursos, nuvem e borda;
 - Azure Resource Manger (ARM) - Fornece uma camada de gerenciamento que permite criar, atualizar e excluir recursos na assinatura do Azure. Os modelos ARM são JSON que podem ser usados para criar e implantar a infraestrutura do Azure sem a necessidade de escrever comandos de programação.
 - Bicep - é uma linguagem nativa da Microsoft mais amigável para automação de recursos.
+
+## 🛡️ Lab 11 - Monitoramento inteligente no Azure
+
+Azure Monitor - Maximiza a disponibilidade e o desempenho de aplicativos e serviços coletando, analisando e tomando decisões com base na telemetria da nuvem e de ambientes locais.
+
+Integridade de serviços do Azure - é uma coleção de serviços que mantém voc~e informado sobre o status geral do Azure, status de serviços que podem afetar você e o status dos recursos que podem estar afetando a operação.
+
+Assistente do Azure (Azure Advisor) - analisa os recursos implantados e faz recomendações com base nas práticas recomendadas para otimizar as implantações. Analisa os seguintes critérios: Confiabilidade, segurança, desempenho, custos e excelência operacional. 

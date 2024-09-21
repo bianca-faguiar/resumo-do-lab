@@ -108,3 +108,8 @@ Bloqueio de recursos - Protege de exclusão ou modificações acidentais.
 
 Microsoft Purview - Soluções de governança, risco e conformidade de dados que ajuda você a obter uma única exibição unificada de seus dados. Reúne insights sobre seus dados locais, multinuvem e de software como serviço.
 
+## 📌 Lab 10 - Ferramentas de implantação no Azure
+
+- Azure Arc - gerenciamento de recursos, nuvem e borda;
+- Azure Resource Manger (ARM) - Fornece uma camada de gerenciamento que permite criar, atualizar e excluir recursos na assinatura do Azure. Os modelos ARM são JSON que podem ser usados para criar e implantar a infraestrutura do Azure sem a necessidade de escrever comandos de programação.
+- Bicep - é uma linguagem nativa da Microsoft mais amigável para automação de recursos.

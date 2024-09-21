@@ -100,3 +100,11 @@ Marcas (tags) - IMPORTANTE: Não são obrigatórias e herdáveis! Tratam-se de m
 
 Lab - Testes com a calculadora.
 
+## ⚖️ Lab 9 - Gerenciando políticas em acessos Azure
+
+Azure Policy - Ajuda a impor padrões organizacionais e a avaliar a conformidade em escala. Fornece governança e consistência de recursos com conformidade regulatória, segurança, custo e gerenciamento. Avalia e identifica recursos que não atendem as suas políticas. E, por fim, fornece definições políticas e iniciativas integradas, em categorias como armazenamento, rede, computação, central de segurança e monitoramento.
+
+Bloqueio de recursos - Protege de exclusão ou modificações acidentais.
+
+Microsoft Purview - Soluções de governança, risco e conformidade de dados que ajuda você a obter uma única exibição unificada de seus dados. Reúne insights sobre seus dados locais, multinuvem e de software como serviço.
+
